@@ -1,7 +1,6 @@
 Algoritmo dias
 	Definir dia Como Caracter;
 	
-	
 	Escribir "Ingrese un dia: ";
 	leer dia;
 	si dia = "lunes" entonces;
