@@ -11,6 +11,6 @@
 
 `Act4_curso` ==> Se ingresa el numero que se quiere saber su tabla de multiplicar y luego se ingresa hasta que numero va a multiplicar.(Se utilizó la estructura de iteracion **Repetir** )
 
-`Act5_curso` ==> Genera el promedio de 5 valores que se ingresa por pantalla. (Se utiliza una **Lista con 5 posiciones** )
+`Act5_curso` ==> Genera el promedio de 5 valores que se ingresa por pantalla. (Se utilizó una **Lista con 5 posiciones** )
 
 `Act6_curso` ==> Dado un determinado N° de alumnos se ingresa una x cantidad de integrantes y genera la cantidad de grupos que se armaron. (Se utilizó dos **Funciones** ) 
