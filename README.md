@@ -2,7 +2,7 @@
 ## Introduccion a la programacion con Pseint
 ![1](https://generacionbreak.files.wordpress.com/2014/07/cropped-timthumsssb.png)
 
-## Actividades
+## Descripcion de Actividades
 `Act1_curso` ==> Al ingresar el nombre de un dia, te dice si es fin de semana o no.
 
 `Act2_curso` ==> Se ingresa una altura y si es mayor a los 1.30, la persona puede ingresar al juego.
