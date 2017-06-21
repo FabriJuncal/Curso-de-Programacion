@@ -28,7 +28,7 @@ Funcion  ingresar_cantIntegrantes(alumnos)
 	
 	si Nintegrantes >= 0 entonces
 		si Nintegrantes > alumnoss entonces
-			Escribir "** Ingrese un valor mayor o igual al numero de alumnos. **";
+			Escribir "** Ingrese un valor menor o igual al numero de alumnos. **";
 			ingresar_cantIntegrantes(alumnoss);
 		sino
 			
@@ -47,7 +47,7 @@ Funcion  ingresar_cantIntegrantes(alumnos)
 				
 			SiNo
 				si grupos = 1 entonces
-					Escribir "Se formo un grupos de ", Nintegrantes, ".";
+					Escribir "Se formo un grupo de ", Nintegrantes, ".";
 					
 				sino
 					
