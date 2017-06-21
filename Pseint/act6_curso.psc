@@ -37,7 +37,7 @@ Funcion  ingresar_cantIntegrantes(alumnos)
 			
 			si sobran <>0 Entonces
 				si grupos = 1 entonces
-					Escribir "Se formo un grupo de ", Nintegrantes, " y un grupo de ", (alumnoss - Nintegrantes) ".";
+					Escribir "Se formo un grupo de ", Nintegrantes, " y un grupo de ", (alumnoss - Nintegrantes), ".";
 				
 				sino
 					Escribir "Se formaron ", grupos, " grupos de ", Nintegrantes, " y un grupo de ", sobran ".";
