@@ -47,7 +47,7 @@ Algoritmo sin_titulo
 		
 	FinPara
 		
-	si edad > listaEdad[0]  Entonces
+	si j = 0   Entonces
 		Escribir "    *** No hay personas mayores a ",edad," ***";
 		
 	SiNo
