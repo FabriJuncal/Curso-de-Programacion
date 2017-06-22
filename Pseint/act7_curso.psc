@@ -1,4 +1,4 @@
-Algoritmo sin_titulo
+Algoritmo Personas_Mayores
 	Definir  edad, listaEdad, i, j Como Entero;
 	Definir listaNombre Como Caracter;
 	
