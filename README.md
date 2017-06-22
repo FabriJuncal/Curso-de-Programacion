@@ -14,3 +14,5 @@
 `Act5_curso` ==> Genera el promedio de 5 valores que se ingresa por pantalla. (Se utilizó una **Lista con 5 posiciones** )
 
 `Act6_curso` ==> Dado un determinado N° de alumnos se ingresa una x cantidad de integrantes y genera la cantidad de grupos que se armaron. (Se utilizó dos **Funciones** ) 
+
+`Act7_curso` ==> Dada una edad especifica por el usuario se muestra por pantalla una lista de personas (ya ingresadas en el programa) las que son mayores a la edad administrada como dato inicial. ( Se utilizó dos **Listas de 10 posiciones** )
