@@ -1,4 +1,4 @@
-Algoritmo Promedio_de_4_Numeros
+Algoritmo Promedio_de_5_Numeros
 	Definir a como real;
 	definir i como entero;
 	
