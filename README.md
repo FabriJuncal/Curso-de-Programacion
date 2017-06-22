@@ -4,7 +4,8 @@
 
 ## Descripcion de Actividades
 [Act1_curso][1] ==> Al ingresar el nombre de un dia, te dice si es fin de semana o no.
-[1]: ./act1_curso
+
+[1]: ./Pseint/act1_curso.psc
 
 `Act2_curso` ==> Se ingresa una altura y si es mayor a los 1.30, la persona puede ingresar al juego.
 
