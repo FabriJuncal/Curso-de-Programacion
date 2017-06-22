@@ -1,6 +1,9 @@
 # Curso de Programacion
 ## Introduccion a la programacion con Pseint
-![imagen inicial](https://generacionbreak.files.wordpress.com/2014/07/cropped-timthumsssb.png)
+![imagen inicial](/Imagenes/configuracion_Pseint.png)
+
+## Las configuraciones que se utilizaron para hacer los ejercicios fueron:
+![imagen inicial](/Imagenes/configuracion_Pseint.png)
 
 ## Descripcion de Actividades
 [Act1_curso][1] ==> Al ingresar el nombre de un dia, te dice si es fin de semana o no.
