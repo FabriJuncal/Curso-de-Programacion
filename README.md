@@ -1,6 +1,6 @@
 # Curso de Programacion
 ## Introduccion a la programacion con Pseint
-![imagen inicial](/Imagenes/configuracion_Pseint.png)
+![imagen inicial](/Imagenes/Logo.png)
 
 ## Las configuraciones que se utilizaron para hacer los ejercicios fueron:
 ![imagen inicial](/Imagenes/configuracion_Pseint.png)
