@@ -1,6 +1,6 @@
 Algoritmo sin_titulo
 	Definir  edad, listaEdad, i, j Como Entero;
-	Definir nombre, listaNombre Como Caracter;
+	Definir listaNombre Como Caracter;
 	
 	Dimension listaEdad[10];
 	Dimension listaNombre[10];
