@@ -22,14 +22,14 @@
 
 [4]: ./Pseint/act4_curso.psc
 
-[Act5_curso][5] ==> Genera el promedio de 5 valores que se ingresa por pantalla. (Se utilizó una **Lista con 5 posiciones** )
+[Act5_curso][5] ==> Genera el promedio de 5 valores que se ingresa por pantalla. (Se utilizó una **Listas** )
 
 [5]: ./Pseint/act5_curso.psc
 
-[Act6_curso][6] ==> Dado un determinado N° de alumnos se ingresa una x cantidad de integrantes y genera la cantidad de grupos que se armaron. (Se utilizó dos **Funciones** ) 
+[Act6_curso][6] ==> Dado un determinado N° de alumnos se ingresa una x cantidad de integrantes y genera grupos aleatorios. (Se utilizó  **Listas** ) 
 
 [6]: ./Pseint/act6_curso.psc
 
-[Act7_curso][7] ==> Dada una edad especifica por el usuario se muestra por pantalla una lista de personas (ya ingresadas en el programa) las que son mayores a la edad administrada como dato inicial. ( Se utilizó dos **Listas de 10 posiciones** )
+[Act7_curso][7] ==> Dada una edad especifica por el usuario se muestra por pantalla una lista de personas (ya ingresadas en el programa) las que son mayores a la edad administrada como dato inicial. ( Se utilizo **Listas** )
 
 [7]: ./Pseint/act7_curso.psc
