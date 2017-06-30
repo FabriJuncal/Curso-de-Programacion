@@ -5,16 +5,11 @@ Algoritmo Personas_Mayores
 	Dimension listaEdad[10];
 	Dimension listaNombre[10];
 	j = 0; 
-	listaEdad[0] = 34;
-	listaEdad[1] = 12;
-	listaEdad[2] = 50;
-	listaEdad[3] = 20;
-	listaEdad[4] = 18;
-	listaEdad[5] = 3;
-	listaEdad[6] = 80;
-	listaEdad[7] = 15;
-	listaEdad[8] = 18;
-	listaEdad[9] = 6;
+	
+	para i = 0 hasta 9 hacer
+		listaEdad[i] = azar(90);
+		
+	finpara
 	
 	listaNombre[0] = "Matias" ;
 	listaNombre[1] = "Erika";
