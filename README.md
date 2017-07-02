@@ -34,7 +34,7 @@
 
 [7]: ./Pseint/act7_curso.psc
 
-[Act8_curso][8] ==> Algoritmo que a partir de una pila inicial de tres elementos devuelva una pila invertida de dichos elementos.
+[Act8_curso][8] ==> Algoritmo que a partir de una pila inicial de tres elementos devuelva una pila invertida de dichos elementos. ( Se utilizo **Listas** )
 
 [8]: ./Pseint/act8_curso.psc
 
