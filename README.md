@@ -33,3 +33,6 @@
 [Act7_curso][7] ==> Dada una edad especifica por el usuario se muestra por pantalla una lista de personas (ya ingresadas en el programa) las que son mayores a la edad administrada como dato inicial. ( Se utilizo **Listas** )
 
 [7]: ./Pseint/act7_curso.psc
+
+[Act8_curso][8] ==> Algoritmo que a partir de una pila inicial de tres elementos devuelva una pila invertida de dichos elementos.
+
