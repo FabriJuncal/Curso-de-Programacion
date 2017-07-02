@@ -36,3 +36,5 @@
 
 [Act8_curso][8] ==> Algoritmo que a partir de una pila inicial de tres elementos devuelva una pila invertida de dichos elementos.
 
+[8]: ./Pseint/act8_curso.psc
+
