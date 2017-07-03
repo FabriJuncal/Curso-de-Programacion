@@ -38,3 +38,7 @@
 
 [8]: ./Pseint/act8_curso.psc
 
+[Act9_curso][9] ==> Pseudocodigo que realiza la busqueda del nombre de un cliente en un vector que contiene 5 clientes en total. El cliente a buscar será ingresado por pantalla por el usuario. El algoritmo muestra por pantalla si existe o no el nombre en la lista. ( Se utilizo **Listas** )
+
+[9]: ./Pseint/act9_curso.psc
+
