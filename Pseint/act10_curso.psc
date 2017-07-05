@@ -1,4 +1,4 @@
-Algoritmo sin_titulo
+Algoritmo Ordenamiento_De_Numeros_Aleatoreos
 	definir ListaNumeros, n,i, f, aux como entero;
 	
 	Escribir "Ingresar la cantidad de numeros para la lista: ";
