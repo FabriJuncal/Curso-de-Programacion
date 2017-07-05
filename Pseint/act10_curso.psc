@@ -29,9 +29,9 @@ Algoritmo sin_titulo
 			si ListaNumeros[i] < ListaNumeros[f] entonces
 				
 				aux = ListaNumeros[i];
-				ListaNumeros[i] = ListaNumeros[f];   //Metodo Burbuja
-				ListaNumeros[f] = aux;				//Ordena los numeros aleatorios de manera
-												   // Ascendente
+				ListaNumeros[i] = ListaNumeros[f];   //Metodo Burbuja.
+				ListaNumeros[f] = aux;		    //Ordena los numeros aleatorios de manera
+								   // Ascendente.
 			FinSi
 			
 		FinMientras
