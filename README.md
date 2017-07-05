@@ -42,3 +42,6 @@
 
 [9]: ./Pseint/act9_curso.psc
 
+[Act10_curso][10] ==> Algoritmo que al inicio pide que se ingrese la cantidad de numeros que tendra la lista, y mediante una estructura **Para**, junto con la funcion **Azar** se carga la lista aleatoreamente, luego con el **Metodo Burbuja** se ordenan los numeros aleatoreos de forma **Ascendente**, y con una estructura **Para** nuevamente, se muestra por pantalla la lista ordenada de manera **Decreciente**.
+
+[10]: ./Pseint/act10_curso.psc
