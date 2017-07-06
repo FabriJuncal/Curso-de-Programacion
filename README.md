@@ -1,5 +1,8 @@
 # Curso de Programacion
 ## Introduccion a la programacion con Pseint
+
+>Puede descarcarlo desde este enlace http://pseint.sourceforge.net/?page=descargas.php
+
 ![imagen inicial](/Imagenes/Logo.png)
 
 ## Las configuraciones que se utilizaron para hacer los ejercicios fueron:
