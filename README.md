@@ -56,3 +56,9 @@
 
 # Concepto General de una Clase
 ![imagen Clase](/Imagenes/ConceptoGeneralClases.jpg)
+
+# Clase en Java
+![imagen ClaseJava](/Imagenes/clase.png)
+![imagen ClaseJava2](/Imagenes/clase2.jpg)
+
+
