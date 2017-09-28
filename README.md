@@ -50,3 +50,9 @@
 [Burbuja]: ./Algoritmos/README.md
 
 [10]: ./Pseint/act10_curso.psc
+
+## Programacion Orientado a Objeto con Java
+![imagen Java](/Imagenes/JavaLogo.jpg)
+
+# Concepto General de una Clase
+![imagen Clase](/Imagenes/ConceptoGeneralClases.jpg)
