@@ -51,14 +51,3 @@
 
 [10]: ./Pseint/act10_curso.psc
 
-## Programacion Orientado a Objeto con Java
-![imagen Java](/Imagenes/JavaLogo.jpg)
-
-# Concepto General de una Clase
-![imagen Clase](/Imagenes/ConceptoGeneralClases.jpg)
-
-# Clase en Java
-![imagen ClaseJava](/Imagenes/clase.png)
-![imagen ClaseJava2](/Imagenes/clase2.jpg)
-
-
